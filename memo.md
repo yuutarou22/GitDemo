@@ -1,0 +1,2 @@
+# Git amendのメモ
+amendっちゃおうぜ
